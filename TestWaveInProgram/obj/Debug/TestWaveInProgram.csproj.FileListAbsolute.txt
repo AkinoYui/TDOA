@@ -1,0 +1,30 @@
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram\TestWaveInProgram\bin\Debug\TestWaveInProgram.exe.config
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram\TestWaveInProgram\bin\Debug\TestWaveInProgram.exe
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram\TestWaveInProgram\bin\Debug\TestWaveInProgram.pdb
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram\TestWaveInProgram\obj\Debug\TestWaveInProgram.Form1.resources
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram\TestWaveInProgram\obj\Debug\TestWaveInProgram.Properties.Resources.resources
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram\TestWaveInProgram\obj\Debug\TestWaveInProgram.csproj.GenerateResource.cache
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram\TestWaveInProgram\obj\Debug\TestWaveInProgram.csproj.CoreCompileInputs.cache
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram\TestWaveInProgram\obj\Debug\TestWaveInProgram.exe
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram\TestWaveInProgram\obj\Debug\TestWaveInProgram.pdb
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram\TestWaveInProgram\obj\Debug\TestWaveInProgram.csprojAssemblyReference.cache
+D:\final\orig\TestWaveInProgram1103\TestWaveInProgram\bin\Debug\TestWaveInProgram.exe.config
+D:\final\orig\TestWaveInProgram1103\TestWaveInProgram\bin\Debug\TestWaveInProgram.exe
+D:\final\orig\TestWaveInProgram1103\TestWaveInProgram\bin\Debug\TestWaveInProgram.pdb
+D:\final\orig\TestWaveInProgram1103\TestWaveInProgram\obj\Debug\TestWaveInProgram.csprojAssemblyReference.cache
+D:\final\orig\TestWaveInProgram1103\TestWaveInProgram\obj\Debug\TestWaveInProgram.Form1.resources
+D:\final\orig\TestWaveInProgram1103\TestWaveInProgram\obj\Debug\TestWaveInProgram.Properties.Resources.resources
+D:\final\orig\TestWaveInProgram1103\TestWaveInProgram\obj\Debug\TestWaveInProgram.csproj.GenerateResource.cache
+D:\final\orig\TestWaveInProgram1103\TestWaveInProgram\obj\Debug\TestWaveInProgram.csproj.CoreCompileInputs.cache
+D:\final\orig\TestWaveInProgram1103\TestWaveInProgram\obj\Debug\TestWaveInProgram.exe
+D:\final\orig\TestWaveInProgram1103\TestWaveInProgram\obj\Debug\TestWaveInProgram.pdb
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram1103_2\TestWaveInProgram\bin\Debug\TestWaveInProgram.exe.config
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram1103_2\TestWaveInProgram\bin\Debug\TestWaveInProgram.exe
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram1103_2\TestWaveInProgram\bin\Debug\TestWaveInProgram.pdb
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram1103_2\TestWaveInProgram\obj\Debug\TestWaveInProgram.csprojAssemblyReference.cache
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram1103_2\TestWaveInProgram\obj\Debug\TestWaveInProgram.Form1.resources
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram1103_2\TestWaveInProgram\obj\Debug\TestWaveInProgram.Properties.Resources.resources
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram1103_2\TestWaveInProgram\obj\Debug\TestWaveInProgram.csproj.GenerateResource.cache
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram1103_2\TestWaveInProgram\obj\Debug\TestWaveInProgram.csproj.CoreCompileInputs.cache
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram1103_2\TestWaveInProgram\obj\Debug\TestWaveInProgram.exe
+C:\Users\choi\Documents\카카오톡 받은 파일\TestWaveInProgram1103_2\TestWaveInProgram\obj\Debug\TestWaveInProgram.pdb
